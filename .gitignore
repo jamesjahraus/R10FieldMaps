@@ -9,12 +9,14 @@
 *.gdb
 *.tbx
 *.aprx
-*.pdf
+*.atbx
 *.zip
 data/
 arcgis/
 ImportLog/
 Index/
+R10FieldMaps/
+GpMessages/
 
 # pycharm
 .idea
