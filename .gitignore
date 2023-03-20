@@ -5,13 +5,11 @@
 *.shp
 *.shx
 *.xml
-*.csv
 *.gdb
 *.tbx
 *.aprx
 *.atbx
 *.zip
-data/
 arcgis/
 ImportLog/
 Index/
